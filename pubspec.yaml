@@ -30,6 +30,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  http: ^1.1.0
+  extended_image:
+    git:
+      url: https://github.com/singh-karan-7/extended_image.git
+      ref: my-branch
 
 
   # The following adds the Cupertino Icons font to your application.

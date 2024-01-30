@@ -4,13 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Make sure you have Flutter installed in your system. You can then clone this repository in your system. Then, make sure you are in the root directory of the project.
+2. Run the following command. This will install all the required dependencies of the project:
+   flutter pub get
+3. Then, in the bottom corner in VS Code, you can select the device where you want to run. Generally, it says Chrome. If you are on Mac, you can run iOS simulator and then select that device or you can run an Android emulator from the dropdown.
+4. You can either run the app from main.dart file from the top right corner or you can run the following command:
+   flutter run
